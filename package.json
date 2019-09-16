@@ -1,9 +1,12 @@
 {
-  "name": "discordbot",
-  "version": "1.0.0",
-  "main": "index.js",
+  "name": "botdiscord",
+  "version": "0.1.0",
+  "main": "main.js",
   "license": "MIT",
   "dependencies": {
     "discord.js": "^11.5.1"
-  }
+  },
+  "description": "bot pour discord",
+  "repository": "https://github.com/GH3LL/discordbot.git",
+  "author": "GH3LL <florianthepgm@live.fr>"
 }
